@@ -17,9 +17,9 @@ Movie ratings play an important role in influencing audience decisions on online
 ### Features Used
 - Genre
 - Runtime
-- Budget
-- Popularity
 - Vote Count
+- Gross
+- Rating
 
 ## Methodology
 1. Data Collection
@@ -37,7 +37,6 @@ Movie ratings play an important role in influencing audience decisions on online
 
 ## Evaluation Metrics
 - Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - R-squared Score (R²)
 
